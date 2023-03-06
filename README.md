@@ -25,7 +25,7 @@ After starting the application, follow the prompts to enter information for each
 
 ## Demo
 
-[Here]([https://drive.google.com/file/d/1lqzgqyFLuB7VgPZt0lm7Vx1Xt16FF04f/view?usp=sharing](https://www.loom.com/share/a30bfac9c2b04e09bf807557540ed736)) is a video demo of the application.
+[Here](https://www.loom.com/share/a30bfac9c2b04e09bf807557540ed736) is a video demo of the application.
 
 ## License
 
